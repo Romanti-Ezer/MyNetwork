@@ -3,7 +3,7 @@
 ## About the project
 This will be a SPA to manage contacts.
 It's possible to add, view, list, delete and see coming birthdays.
-Developed with Laravel, Vue.js and Tailwindcss.
+Developed with Laravel, Vue.js and Tailwind CSS.
 
 ## How to run the project in your machine
 It's required to have [git](https://git-scm.com/downloads), [composer](https://getcomposer.org/download/) and [npm](https://nodejs.org/en/download/) installed to follow these steps:
@@ -43,4 +43,4 @@ It's required to have [git](https://git-scm.com/downloads), [composer](https://g
     </VirtualHost>
     ```
     * If you create a virtual host, don't forget to change the APP_URL in the ```.env``` file
-11. Access the app url and create a count to use the system
+11. Access the app url and create an account to use the system
