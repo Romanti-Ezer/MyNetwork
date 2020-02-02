@@ -1,9 +1,7 @@
 # MyNetwork
 
 ## About the project
-This will be a SPA to manage contacts.
-It's possible to add, view, list, delete and see coming birthdays.
-Developed with Laravel, Vue.js and Tailwind CSS.
+This is a SPA to manage contacts. It's possible to add, view, list, search, delete, and see coming birthdays of contacts. Developed with Laravel, Vue.js, and Tailwind CSS.
 
 ## How to run the project in your machine
 It's required to have [git](https://git-scm.com/downloads), [composer](https://getcomposer.org/download/) and [npm](https://nodejs.org/en/download/) installed to follow these steps:
